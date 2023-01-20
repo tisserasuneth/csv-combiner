@@ -64,7 +64,7 @@ Given three input files named `accessories.csv`, `clothing.csv`, and `household_
 
 ## Unit Tests
 
-Tests can be conducted using the following command
+Tests can be conducted using the following command:
 ```
 $ python3 -m unittest test_combiner.py
 ```
