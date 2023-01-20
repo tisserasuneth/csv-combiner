@@ -70,3 +70,5 @@ $ python3 -m unittest test_combiner.py
 - Invalid Files input
 - 'filename' Column exitence
 - CSV Files Combined Succesfully
+
+*Smaller CSV files will be generated for testing using 'generate_forTest.py' - Make sure to include in directory*
