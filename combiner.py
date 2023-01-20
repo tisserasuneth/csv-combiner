@@ -1,7 +1,8 @@
+#Combining CSV Files
 #Interviewee: Suneth Tissera, tisserasuneth@gmail.com
 #Company: PMG Digital Agency
 
-#The files are first validated by checking if an input was given. 
+#The files are first validated by checking if an input was given 
 #If an input was given, existence of files are checked
 #The list of files are then passed inside combine()
 #The list is iterated through -> broken into chunks

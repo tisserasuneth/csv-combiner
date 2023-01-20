@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+#Generating smaller CSV files for Unit Tests
 import csv
 import hashlib
 import os
