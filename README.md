@@ -14,6 +14,11 @@ filename from which the row came.
 The program is able to handle multiple inputs as required.  
 Each csv files is also broken into chunks using the pandas library. This allows for combining even larger .csv files with ease.
 
+### Notable Files
+- Combine Files - *combiner.py*
+- Unit Tests - *test_combiner.py*
+
+Command to combine files:
 ```
 $ python3 combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv ./fixtures/household_cleaners.csv >output.csv
 ```
